@@ -1,18 +1,19 @@
 These document details standards & guidelines for developing and delivering products and services for nightfever.
 
-#Table of Contents
+##Table of Contents
 
-* [URLs](/urls.md)
-* [Text](/text.md)
+* [Sites and URL Schemata](/urls.md)
+* [Text Formatting](/text.md)
+* [E-Mail](/mail.md)
+* [Social Media](/social-media.md)
 
-#References
+##References
 
-Our guidelines are based on the following great documents by the BBC, that are available to the public.
-
-* [Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/)
-* [Building a Global Experience Language for the BBC](http://www.bbc.co.uk/gel)
-* [Editorial Guidelines](http://www.bbc.co.uk/editorialguidelines/guidelines/)
-
-Other influences:
-* [Wikipedia:Manual of Style](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
-* [Wikipedia:Formatierung](http://de.wikipedia.org/wiki/Wikipedia:Formatierung)
+* BBC: [Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/)
+* BBC: [Building a Global Experience Language for the BBC](http://www.bbc.co.uk/gel)
+* BBC: [Editorial Guidelines](http://www.bbc.co.uk/editorialguidelines/guidelines/)
+* Wikipedia: [Wikipedia:Manual of Style](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
+* Wikipedia: [Wikipedia:Formatierung](http://de.wikipedia.org/wiki/Wikipedia:Formatierung)
+* Jakob Nielsen: [113 Design Guidelines for Homepage Usability](http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)
+* Päpstlicher Rat für die sozialen Kommunikationsmittel: [Kirche und Internet](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_20020228_church-internet_ge.html)
+* Jakob Nielsen: [113 Design Guidelines for Homepage Usability](http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)

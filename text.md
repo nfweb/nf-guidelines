@@ -1,8 +1,14 @@
+#Encoding
+Any text content should use UTF-8 encoding. This is delcared by ```<meta charset="UTF-8" />``` in the head of each page.
+
 #Language
 Any content can be available in different languages relevant to the suggested audience.
 Most broader used languages have some national or regional varieties. These varieties (e.g. American English vs. British English) differ in many ways, including vocabulary (*elevator* vs. *lift*), spelling (*center* vs. *centre*), date formatting (*April 13* vs. *13 April*), and occasionally grammar (see Plurals).
 The appropriate variety for any piece of content with a strong regional reference is the closest regional language variety. Within a given piece of content the conventions of one particular variety should be followed consistently.
 Exceptions: quotations, proper names, titles of works.
+
+There sould only be one language per page. The langugage is declared via ```<html lang=":lang">```.
+Exceptions apply for quotations in original language, which must be declared via ```lang=":lang"``` and must be accompanied by a translation to the language of the current page.
 
 #Dates
 Dates should allways be written consistently.
@@ -52,11 +58,12 @@ See also:
 #Numbers
 * Integers from zero to nine are spelled out in words
 * Decimal point
- * English, Swiss German: A period/full stop (never a comma): 6.57, not 6,57
+ * English: A period/full stop (never a comma): 6.57, not 6,57
  * German: A comma (never a period): 6,57, not 6.57
 * Grouping of digits: Where five or more digits appear left of the decimal point, they are grouped into triples. Four digits are never grouped.
- * English, Swiss German: use comma (never period/full stop): 12,200, 255,200, 8,274,527, but 1024
+ * English: use comma (never period/full stop): 12,200, 255,200, 8,274,527, but 1024
  * German: use period (never comma): 12.200, 255.200, 8.274.527, but 1024
+ * Swiss German: use apostrophe: 12'200, 255'200, 8'274'527, but 1024
 
 See also:
 
@@ -64,4 +71,5 @@ See also:
 * [Wikipedia:Manual of Style/Dates and numbers](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers)
 
 #Resources
-* [Wikipedia:Manual of Style](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
+* Wikipedia: [Wikipedia:Manual of Style](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
+* Designer Daily: [Getting started with multilingual websites](http://www.designer-daily.com/getting-started-with-multilingual-websites-29260)
