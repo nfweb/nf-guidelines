@@ -10,10 +10,10 @@ Schema: ```:site@nightfever.org```
 Examples: ```koeln@nightfever.org```, ```newsletter@nightfever.org```
 
 ### Subaddresses
-Schema: ```:address@:site.nightfever.org```
+Schema: ```:address@:site.nightfever.org```  
 Examples: ```newsletter@koeln.nightfever.org```, ```anmeldung@weekend.nightfever.org```, ```team@fulda.nightfever.org```
 
 
 ## Personal Accounts
-Schema: ```:firstname.:lastname@(:site.)nightfever.org```
+Schema: ```:firstname.:lastname@(:site.)nightfever.org```  
 Examples: ```andreas.suess@nightfever.org```
