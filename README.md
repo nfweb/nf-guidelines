@@ -17,3 +17,5 @@ These document details standards & guidelines for developing and delivering prod
 * Jakob Nielsen: [113 Design Guidelines for Homepage Usability](http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)
 * Päpstlicher Rat für die sozialen Kommunikationsmittel: [Kirche und Internet](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_20020228_church-internet_ge.html)
 * Jakob Nielsen: [113 Design Guidelines for Homepage Usability](http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)
+* Thoughtbot: [Playbook](http://playbook.thoughtbot.com/)
+* Thoughtbot: [Guides](https://github.com/thoughtbot/guides)
