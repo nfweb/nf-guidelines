@@ -22,11 +22,11 @@ Additionally there are some nightfever websites with different domain schemes (a
 * [nightfeverliege.be](http://nightfeverliege.be/)
 * [nightfever-weekend.com](http://nightfever-weekend.com/)
 
-It is to be determined how those domain names should be treated in the long term.
+**All existing domain names should stay in place but redirect to the new main domain.**
 
 ##URL Shortener
 * shortens urls for easy sharing (micorblogging, f2f meet)
-* CMS integration assists brand recognition (in contrast to a generic shortner like bit.ly
+* CMS integration assists brand recognition (in contrast to a generic shortener like bit.ly
 
 **Suggestions:** ```n8fvr.it```, ```n8fever.org```, ```nght.fr``` or the like
 
@@ -52,17 +52,14 @@ Subdomains for specific services are derived from their name or an appropriate a
 Examples: ```mail.nightfever.org```, ```auth.nightfever.org```, ```cdn.nightfever.org```, ```shop.nightfever.org```
 
 ##Regions
-It is to be determined if pages for specific regions (e.g. countries) should get their own subdomains or live in the main domain.
+Pages for specific regions (e.g. countries) should not get their own subdomains but live in the main scope.
 
-Subdomains for specific regions are derived from their country code as defined by ISO 3166-1 [List on Wikipedia](http://en.wikipedia.org/wiki/ISO_3166-1)
-
-Examples: ```de.nightfever.org``` (two-letter), ```ger.nightfever.org``` (three-letter)
+Region identifiers are derived from their country code as defined by ISO 3166-1 [List on Wikipedia](http://en.wikipedia.org/wiki/ISO_3166-1)
 
 #Query Paths
-
 The first component of a path defines the language, in which the requested page is to be dispayed.
 
-Unclear: The language identifier may be omitted for the default language of a requested page/site (this includes single-language pages).
+The language identifier may be omitted if the default language of a site is by far the most important one (this includes single-language pages).
 
 The other components of a path specify the requested page and its content.
 
@@ -71,8 +68,6 @@ Paths should be clean, user-friendly and seo-friendly.
 ##Static Content
 The path of static pages consists of human-readable words in the language of the specified page. Subdirectories may be used when necessary.
 
-The domain index lives at ```/```. 
-
 ##Dynamic Content
 Paths for dynamic content should include the type of content, the content id and a human readable title. Other properties may be included if they provide major information (e.g. event dates).
 
@@ -80,7 +75,7 @@ Paths for dynamic content should include the type of content, the content id and
 
 Example: ```/news/123456/a-new-nightfever-website-has-launched```, ```/events/123457/2014-03-14-international-nightfever-weekend-in-fulda```
 
-##Subdomain Redirects
+##Landing Page Redirects
 Every site on its own subdomain may also be accessed via redirect from the correspondent path on the main domain.
 Example: ```nightfever.org/mail``` -> ```mail.nightfever.org```, ```nightfever.org/köln``` -> ```koeln.nightfever.org```, ```nightfever.org/koeln``` -> ```koeln.nightfever.org```
 

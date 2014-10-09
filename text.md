@@ -10,6 +10,16 @@ Exceptions: quotations, proper names, titles of works.
 There sould only be one language per page. The langugage is declared via ```<html lang=":lang">```.
 Exceptions apply for quotations in original language, which must be declared via ```lang=":lang"``` and must be accompanied by a translation to the language of the current page.
 
+#Orthography
+
+##German
+The german spelling is based on the rules described pursuant to an agreement between the German-speaking countries for school use ("Neue deutsche Rechtschreibung") in the current version (current as of August 2006).
+
+**Reference:**
+
+* Deutsche Rechtschreibung. Regeln und Wörterverzeichnis. Fassung des Rechtschreibrats vom Februar 2006. Teil 1: [http://rechtschreibrat.ids-mannheim.de/download/regeln2006.pdf Regeln], Teil 2: [http://rechtschreibrat.ids-mannheim.de/download/woerterverzeichnis2006.pdf Wörterverzeichnis]
+* [Wikipedia:Rechtschreibung](https://de.wikipedia.org/wiki/Wikipedia:Rechtschreibung)
+
 #Dates
 Dates should allways be written consistently.
 
@@ -56,7 +66,9 @@ See also:
 * Quotations from foreign-language sources should appear in translation.
 
 #Numbers
-* Integers from zero to nine are spelled out in words
+* Low value integers are spelled out in words
+ * English: from zero to nine
+ * German: from zero to twelve
 * Decimal point
  * English: A period/full stop (never a comma): 6.57, not 6,57
  * German: A comma (never a period): 6,57, not 6.57
@@ -73,3 +85,8 @@ See also:
 #Resources
 * Wikipedia: [Wikipedia:Manual of Style](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
 * Designer Daily: [Getting started with multilingual websites](http://www.designer-daily.com/getting-started-with-multilingual-websites-29260)
+* Jason Cranford Teague: [Typographic Marks](http://jasonspeaking.com/typographic-marks/)
+* Jessica Hische: [Quotes & Accents & Dashes](http://quotesandaccents.com/)
+* Marco Steinbrecher: [Anführungszeichen, Akzente & Striche](http://blog.steini.me/anfuehrungszeichen-akzente-und-striche) (German)
+* Benedikt Lehnert: [A Pocket Guide to Master Every Day’s Typographic Adventures](http://typogui.de/)
+* Timo Stoppacher: [Content-Style-Guide: Endlich alles einheitlich](http://t3n.de/news/content-style-guide-endlich-538979/). t3n magazine, 2014
